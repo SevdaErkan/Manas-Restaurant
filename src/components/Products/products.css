@@ -1,0 +1,21 @@
+.categories {
+    margin-top: 6rem;
+    margin-bottom: 4rem;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 4rem;
+}
+button {
+    background: #ffc500;
+    border: none;
+    width: 120px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 4px;
+}
+button:hover {
+    background: #e31837;
+    transition: 0.2s ease-out;
+    cursor: pointer;
+    color: #fff;
+}
